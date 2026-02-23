@@ -1,0 +1,6 @@
+[submodule "MadaOS-cinnamon-profile"]
+	path = MadaOS-cinnamon-profile
+	url = https://github.com/2kfi/Mada-Linux
+[submodule "MadaOS-base"]
+	path = MadaOS-base
+	url = https://github.com/2kfi/Mada-Linux

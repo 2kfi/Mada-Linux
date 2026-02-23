@@ -1,0 +1,15 @@
+Mada KDE Linux Scripts and Configs
+Copyright 2026 Arkan Fakoseh
+
+All contributors to this repository are considered original authors.
+Redistribution or reuse of these scripts/configs must credit all authors listed in the CONTRIBUTORS file or Git history.
+
+
+This distribution includes the following third-party components:
+
+SilentSDDM
+Copyright (C) 2022–2024 uiriansan
+Licensed under the GNU General Public License v3.0 (GPL-3.0).
+Source: https://github.com/uiriansan/SilentSDDM
+
+A copy of the GPL-3.0 license is provided in LICENSES/GPL-3.0-SilentSDDM.txt
